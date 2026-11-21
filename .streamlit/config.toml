@@ -1,9 +1,14 @@
+
 [theme]
 base = "dark"
+
 primaryColor = "#F4AD3D"
 backgroundColor = "#29384D"
 secondaryBackgroundColor = "#394B63"
 textColor = "#F0F3F7"
+linkColor = "#75AEE7"
+
 font = "sans serif"
+
 [server]
 maxUploadSize = 20
